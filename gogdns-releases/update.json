@@ -1,53 +1,53 @@
 {
-  "tag_name": "0.6.89_20260625-105404_Beta",
-  "body": "## 主要更新\r\n- 新增一种使用污染列表来防污染的逻辑\r\n- 修复多处由新的防污染逻辑引发的问题\r\n- 修复设置页面中多处设置不生效的问题\r\n- 修复设置的上游DoH不生效问题\r\n- 修复ARP列表中格式显示不正确的问题\r\n- 修复设置中的国内查询分流不生效的问题\r\n- 修复历史记录中详细信息面板中的污染监测信息显示不正确的问题\r\n- 修复cdn优选时ipv6改写不生效的问题\r\n\r\n## 前端优化\r\n- 优化整体UI呈现\r\n- 交互体验升级：新增可以切换使用导航按钮或导航栏\r\n- 全量移除浏览器原生滚动条，替换为美化后的不占用页面空间的滚动条\r\n- Bypass面板中增加一键关闭所有已建立的链接按钮\r\n- 支持多节点更新",
+  "tag_name": "0.6.89_20260625-113120_Beta",
+  "body": "## 主要更新\r\n- 新增一种使用污染列表来防污染的逻辑\r\n- 修复多处由新的防污染逻辑引发的问题\r\n- 修复设置页面中多处设置不生效的问题\r\n- 修复设置的上游DoH不生效问题\r\n- 修复ARP列表中格式显示不正确的问题\r\n- 修复设置中的国内查询分流不生效的问题\r\n- 修复历史记录中详细信息面板中的污染监测信息显示不正确的问题\r\n- 修复cdn优选时ipv6改写不生效的问题\r\n- 修复鉴别收集器导致服务器崩溃的问题\r\n\r\n## 前端优化\r\n- 优化整体UI呈现\r\n- 交互体验升级：新增可以切换使用导航按钮或导航栏\r\n- 全量移除浏览器原生滚动条，替换为美化后的不占用页面空间的滚动条\r\n- Bypass面板中增加一键关闭所有已建立的链接按钮\r\n- 支持多节点更新",
   "assets": [
     {
       "name": "gogdns-linux-386",
-      "size": 17199266,
-      "digest": "sha256:b78dea1077c12bb58548b58efa1e9e53afc81410a5853d665ff39eb880c8a62a",
-      "created_at": "2026-06-25T02:54:29Z",
-      "updated_at": "2026-06-25T02:54:29Z",
+      "size": 17203362,
+      "digest": "sha256:4ae6140c025ec3fe27953af70db3890cf28b56f1cef36a0d1fbb790f5f7cd891",
+      "created_at": "2026-06-25T03:31:48Z",
+      "updated_at": "2026-06-25T03:31:48Z",
       "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-386"
     },
     {
       "name": "gogdns-linux-amd64",
-      "size": 17973410,
-      "digest": "sha256:89a44547bff87e80b09b074110a2b693b18440f4c4ce05fb681c46360332b147",
-      "created_at": "2026-06-25T02:54:22Z",
-      "updated_at": "2026-06-25T02:54:22Z",
+      "size": 17981602,
+      "digest": "sha256:bba7d7fc37c4233a61a00311303fd7d9699aaa73e63016c78a6870c887697f1e",
+      "created_at": "2026-06-25T03:31:43Z",
+      "updated_at": "2026-06-25T03:31:43Z",
       "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-amd64"
     },
     {
       "name": "gogdns-linux-arm",
       "size": 17498274,
-      "digest": "sha256:fa738e7b04e75d9696a70d99b14e8113a640d7c30b2a6f48442a68e02482d709",
-      "created_at": "2026-06-25T02:54:10Z",
-      "updated_at": "2026-06-25T02:54:10Z",
+      "digest": "sha256:2f56cf90431f188ae4d94577a7cee8cc9d05c241ce925e708dc17368413b9178",
+      "created_at": "2026-06-25T03:31:30Z",
+      "updated_at": "2026-06-25T03:31:30Z",
       "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-arm"
     },
     {
       "name": "gogdns-linux-arm64",
       "size": 16908450,
-      "digest": "sha256:37ceb584bbf85cf57642493aabd797c6b5d7fce24240fbef427529d95c087fe6",
-      "created_at": "2026-06-25T02:54:15Z",
-      "updated_at": "2026-06-25T02:54:15Z",
+      "digest": "sha256:df428221bf644d415b06f75daa6b2b5ebece7763eb37e41f1c8d941fe3660a2c",
+      "created_at": "2026-06-25T03:31:37Z",
+      "updated_at": "2026-06-25T03:31:37Z",
       "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-arm64"
     },
     {
       "name": "gogdns-windows-386.exe",
-      "size": 17532416,
-      "digest": "sha256:a9a6942b27126e3ee19b9e5e271b76c911bbee67a104cd9f13cac8a0a3489ff4",
-      "created_at": "2026-06-25T02:54:40Z",
-      "updated_at": "2026-06-25T02:54:40Z",
+      "size": 17535488,
+      "digest": "sha256:de7f8a35e1abbeac00511722541d7fc9f6e86acd2d95483f89588ded20df9727",
+      "created_at": "2026-06-25T03:32:01Z",
+      "updated_at": "2026-06-25T03:32:01Z",
       "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-windows-386.exe"
     },
     {
       "name": "gogdns-windows-amd64.exe",
-      "size": 18347520,
-      "digest": "sha256:0e3c3f097b26acf959bdd7c6483394715f8d30786aedd4ebdabdb379c9379ee9",
-      "created_at": "2026-06-25T02:54:34Z",
-      "updated_at": "2026-06-25T02:54:34Z",
+      "size": 18350080,
+      "digest": "sha256:029512d4411c218ccfc7858eb34890f905fcc63fc626df0e1d0c37c77f11575d",
+      "created_at": "2026-06-25T03:31:54Z",
+      "updated_at": "2026-06-25T03:31:54Z",
       "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-windows-amd64.exe"
     }
   ]
