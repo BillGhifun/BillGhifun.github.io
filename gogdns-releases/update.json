@@ -1,0 +1,54 @@
+{
+  "tag_name": "0.6.89_20260625-105404_Beta",
+  "body": "## 主要更新\r\n- 新增一种使用污染列表来防污染的逻辑\r\n- 修复多处由新的防污染逻辑引发的问题\r\n- 修复设置页面中多处设置不生效的问题\r\n- 修复设置的上游DoH不生效问题\r\n- 修复ARP列表中格式显示不正确的问题\r\n- 修复设置中的国内查询分流不生效的问题\r\n- 修复历史记录中详细信息面板中的污染监测信息显示不正确的问题\r\n- 修复cdn优选时ipv6改写不生效的问题\r\n\r\n## 前端优化\r\n- 优化整体UI呈现\r\n- 交互体验升级：新增可以切换使用导航按钮或导航栏\r\n- 全量移除浏览器原生滚动条，替换为美化后的不占用页面空间的滚动条\r\n- Bypass面板中增加一键关闭所有已建立的链接按钮\r\n- 支持多节点更新",
+  "assets": [
+    {
+      "name": "gogdns-linux-386",
+      "size": 17199266,
+      "digest": "sha256:b78dea1077c12bb58548b58efa1e9e53afc81410a5853d665ff39eb880c8a62a",
+      "created_at": "2026-06-25T02:54:29Z",
+      "updated_at": "2026-06-25T02:54:29Z",
+      "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-386"
+    },
+    {
+      "name": "gogdns-linux-amd64",
+      "size": 17973410,
+      "digest": "sha256:89a44547bff87e80b09b074110a2b693b18440f4c4ce05fb681c46360332b147",
+      "created_at": "2026-06-25T02:54:22Z",
+      "updated_at": "2026-06-25T02:54:22Z",
+      "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-amd64"
+    },
+    {
+      "name": "gogdns-linux-arm",
+      "size": 17498274,
+      "digest": "sha256:fa738e7b04e75d9696a70d99b14e8113a640d7c30b2a6f48442a68e02482d709",
+      "created_at": "2026-06-25T02:54:10Z",
+      "updated_at": "2026-06-25T02:54:10Z",
+      "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-arm"
+    },
+    {
+      "name": "gogdns-linux-arm64",
+      "size": 16908450,
+      "digest": "sha256:37ceb584bbf85cf57642493aabd797c6b5d7fce24240fbef427529d95c087fe6",
+      "created_at": "2026-06-25T02:54:15Z",
+      "updated_at": "2026-06-25T02:54:15Z",
+      "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-linux-arm64"
+    },
+    {
+      "name": "gogdns-windows-386.exe",
+      "size": 17532416,
+      "digest": "sha256:a9a6942b27126e3ee19b9e5e271b76c911bbee67a104cd9f13cac8a0a3489ff4",
+      "created_at": "2026-06-25T02:54:40Z",
+      "updated_at": "2026-06-25T02:54:40Z",
+      "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-windows-386.exe"
+    },
+    {
+      "name": "gogdns-windows-amd64.exe",
+      "size": 18347520,
+      "digest": "sha256:0e3c3f097b26acf959bdd7c6483394715f8d30786aedd4ebdabdb379c9379ee9",
+      "created_at": "2026-06-25T02:54:34Z",
+      "updated_at": "2026-06-25T02:54:34Z",
+      "browser_download_url": "https://BillGhifun.github.io/gogdns-releases/gogdns-windows-amd64.exe"
+    }
+  ]
+}
