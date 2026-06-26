@@ -3,11 +3,11 @@
   "update_nodes": [
     {
       "name": "更新节点1",
-      "url": "https://dns.site.je/gogdns-update/update.json"
+      "url": "https://gdns.qzz.io/update.json"
     },
     {
       "name": "更新节点2",
-      "url": "https://dns.fwh.is/gogdns-update/update.json"
+      "url": "https://dns.billghifun.workers.dev/update.json"
     }
   ]
 }
