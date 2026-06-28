@@ -1,13 +1,9 @@
 <p align="center">
   <img src="https://billghifun.github.io/gogdns-docs/logo.svg" alt="GOGDNS Logo" width="300" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/GOGDNS-Contributors-blue?style=for-the-badge&logo=github" alt="contributors" />
 </p>
-
-<br />
-
 > **🎉 感谢每一位为 GOGDNS 做出贡献的开发者！**
 
 ---
