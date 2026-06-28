@@ -15,6 +15,7 @@
 | @ALEX | ![Tester](https://img.shields.io/badge/role-tester-yellow?style=flat-square) |
 | @一叶知秋 | ![Tester](https://img.shields.io/badge/role-tester-yellow?style=flat-square) |
 | @烦 有所思 | ![Tester](https://img.shields.io/badge/role-tester-yellow?style=flat-square) |
+| @盒里DNS | ![Tester](https://img.shields.io/badge/role-tester-yellow?style=flat-square) |
 
 ---
 
