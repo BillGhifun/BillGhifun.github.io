@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://billghifun.github.io/gogdns-docs/logo.svg" alt="GOGDNS Logo" width="120" />
+  <img src="https://billghifun.github.io/gogdns-docs/logo.svg" alt="GOGDNS Logo" width="300" />
 </p>
 
 <p align="center">
@@ -37,14 +37,6 @@
 |:---|:---|
 | @BillGhifun | ![Docs](https://img.shields.io/badge/role-docs-blue?style=flat-square) |
 
-    // ---
-    //
-    // ## 🛠️ 代码贡献者
-    //
-    // | 贡献者 | 角色 | 贡献内容 |
-    // |:---|:---|:---|
-    // | @BillGhifun | ![Contributor](https://img.shields.io/badge/role-contributor-green?style=flat-square) | 修复 DNS over HTTPS 兼容性问题 |
-    //
 ---
 
 ## 💡 如何成为贡献者？
@@ -61,11 +53,6 @@
 以上贡献者名单基于已记录的信息整理，难免有所疏漏。
 
 若你曾参与过 GOGDNS 的开发、测试、文档编写或其他形式的贡献，但未被列入上述名单，恳请与我取得联系，我会在核实后及时补录。
-
-    //| 联系方式 | 链接 |
-    //|:---|:---|
-    //| 📧 电子邮箱 | your-email@example.com |
-    //| 🐙 GitHub Issue | [提交反馈](https://github.com/billghifun/gogdns-releases/issues) |
 
 ---
 
